@@ -1,2 +1,2 @@
-# dmapwm
-PWM implementation using DMA on Raspberry Pi
+# A Rust Implmentation of PWM using DMA for Raspberry Pi
+
